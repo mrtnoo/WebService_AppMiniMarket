@@ -1,0 +1,11 @@
+C:\Users\yerko\Desktop\CODEPROY-GAY\proyEmarketGay\CapaDTO\bin\Debug\CapaDTO.dll
+C:\Users\yerko\Desktop\CODEPROY-GAY\proyEmarketGay\CapaDTO\bin\Debug\CapaDTO.pdb
+C:\Users\yerko\Desktop\CODEPROY-GAY\proyEmarketGay\CapaDTO\obj\Debug\CapaDTO.csproj.CoreCompileInputs.cache
+C:\Users\yerko\Desktop\CODEPROY-GAY\proyEmarketGay\CapaDTO\obj\Debug\CapaDTO.dll
+C:\Users\yerko\Desktop\CODEPROY-GAY\proyEmarketGay\CapaDTO\obj\Debug\CapaDTO.pdb
+C:\Users\yerko\Desktop\proyEmarketGay\CapaDTO\bin\Debug\CapaDTO.dll
+C:\Users\yerko\Desktop\proyEmarketGay\CapaDTO\bin\Debug\CapaDTO.pdb
+C:\Users\yerko\Desktop\proyEmarketGay\CapaDTO\obj\Debug\CapaDTO.csproj.CoreCompileInputs.cache
+C:\Users\yerko\Desktop\proyEmarketGay\CapaDTO\obj\Debug\CapaDTO.dll
+C:\Users\yerko\Desktop\proyEmarketGay\CapaDTO\obj\Debug\CapaDTO.pdb
+C:\Users\yerko\Desktop\proyEmarketGay\CapaDTO\obj\Debug\CapaDTO.csproj.AssemblyReference.cache
